@@ -1,0 +1,44 @@
+/Users/Vaan/Downloads/TanksPluggableAI/Temp/bin/Debug/UnityEngine.dll
+/Users/Vaan/Downloads/TanksPluggableAI/Temp/bin/Debug/UnityEditor.dll
+/Users/Vaan/Downloads/TanksPluggableAI/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Vaan/Downloads/TanksPluggableAI/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/Vaan/Downloads/TanksPluggableAI/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Vaan/Downloads/TanksPluggableAI/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Vaan/Downloads/TanksPluggableAI/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/Vaan/Downloads/TanksPluggableAI/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/Vaan/Downloads/TanksPluggableAI/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Vaan/Downloads/TanksPluggableAI/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Vaan/Downloads/TanksPluggableAI/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Vaan/Downloads/TanksPluggableAI/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Vaan/Downloads/TanksPluggableAI/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Vaan/Downloads/TanksPluggableAI/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Vaan/Downloads/TanksPluggableAI/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Vaan/Downloads/TanksPluggableAI/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Vaan/Downloads/TanksPluggableAI/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Vaan/Downloads/TanksPluggableAI/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Vaan/Downloads/TanksPluggableAI/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Vaan/Downloads/TanksPluggableAI/obj/Debug/Assembly-CSharp.dll
+/Users/Vaan/Downloads/TanksPluggableAI/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Vaan/Downloads/TanksPluggableAI/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/Vaan/Downloads/TanksPluggableAI/Temp/bin/Debug/UnityEngine.Advertisements.dll
+/Users/Vaan/Downloads/HUANG Chuanshan_CSCI4120_Asg2/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Vaan/Downloads/HUANG Chuanshan_CSCI4120_Asg2/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Vaan/Downloads/HUANG Chuanshan_CSCI4120_Asg2/obj/Debug/Assembly-CSharp.dll
+/Users/Vaan/Downloads/HUANG Chuanshan_CSCI4120_Asg2/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Vaan/Downloads/HUANG Chuanshan_CSCI4120_Asg2/Temp/bin/Debug/UnityEngine.dll
+/Users/Vaan/Downloads/HUANG Chuanshan_CSCI4120_Asg2/Temp/bin/Debug/UnityEditor.dll
+/Users/Vaan/Downloads/HUANG Chuanshan_CSCI4120_Asg2/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Vaan/Downloads/HUANG Chuanshan_CSCI4120_Asg2/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/Vaan/Downloads/HUANG Chuanshan_CSCI4120_Asg2/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Vaan/Downloads/HUANG Chuanshan_CSCI4120_Asg2/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Vaan/Downloads/HUANG Chuanshan_CSCI4120_Asg2/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/Vaan/Downloads/HUANG Chuanshan_CSCI4120_Asg2/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/Vaan/Downloads/HUANG Chuanshan_CSCI4120_Asg2/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Vaan/Downloads/HUANG Chuanshan_CSCI4120_Asg2/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Vaan/Downloads/HUANG Chuanshan_CSCI4120_Asg2/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Vaan/Downloads/HUANG Chuanshan_CSCI4120_Asg2/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Vaan/Downloads/HUANG Chuanshan_CSCI4120_Asg2/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Vaan/Downloads/HUANG Chuanshan_CSCI4120_Asg2/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Vaan/Downloads/HUANG Chuanshan_CSCI4120_Asg2/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Vaan/Downloads/HUANG Chuanshan_CSCI4120_Asg2/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Vaan/Downloads/HUANG Chuanshan_CSCI4120_Asg2/Temp/bin/Debug/Mono.Cecil.Mdb.dll

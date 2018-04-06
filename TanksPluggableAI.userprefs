@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PluggableAI/Scripts/Patrolling.cs">
+    <Files>
+      <File FileName="Assets/PluggableAI/Scripts/Wandering.cs" Line="43" Column="130" />
+      <File FileName="Assets/PluggableAI/Scripts/Patrolling.cs" Line="19" Column="72" />
+      <File FileName="Assets/PluggableAI/Scripts/StateController.cs" Line="18" Column="2" />
+      <File FileName="Assets/Tanks/_Completed-Assets/Scripts/Managers/TankManager.cs" Line="23" Column="3" />
+      <File FileName="Assets/PluggableAI/Scripts/LookDecision.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
